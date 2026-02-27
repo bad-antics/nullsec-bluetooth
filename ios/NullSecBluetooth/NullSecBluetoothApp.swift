@@ -8,7 +8,7 @@ import CoreBluetooth
  * 
  * @author @AnonAntics
  * @website https://github.com/bad-antics
- * @discord x.com/AnonAntics
+ * @twitter x.com/AnonAntics
  */
 
 @main
