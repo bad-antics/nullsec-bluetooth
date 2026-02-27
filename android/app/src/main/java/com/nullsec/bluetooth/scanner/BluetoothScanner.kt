@@ -26,7 +26,7 @@ import java.util.*
  * - Signal strength tracking
  * 
  * @author @AnonAntics
- * @discord discord.gg/killers
+ * @discord x.com/AnonAntics
  */
 class BluetoothScanner(private val context: Context) {
 

@@ -8,7 +8,7 @@ import CoreBluetooth
  * 
  * @author @AnonAntics
  * @website https://github.com/bad-antics
- * @discord discord.gg/killers
+ * @discord x.com/AnonAntics
  */
 
 @main
@@ -363,10 +363,10 @@ struct SettingsView: View {
                                 .foregroundColor(NullSecColors.bluetooth)
                             }
                             
-                            Link(destination: URL(string: "https://discord.gg/killers")!) {
+                            Link(destination: URL(string: "https://x.com/AnonAntics")!) {
                                 HStack {
                                     Image(systemName: "gift.fill")
-                                    Text("Get Premium at discord.gg/killers")
+                                    Text("Get Premium at x.com/AnonAntics")
                                 }
                                 .foregroundColor(.yellow)
                             }
@@ -511,8 +511,8 @@ struct LicenseActivationSheet: View {
                     }
                     .padding(.horizontal)
                     
-                    Link(destination: URL(string: "https://discord.gg/killers")!) {
-                        Text("Get key at discord.gg/killers")
+                    Link(destination: URL(string: "https://x.com/AnonAntics")!) {
+                        Text("Get key at x.com/AnonAntics")
                             .font(.subheadline)
                             .foregroundColor(.yellow)
                     }
@@ -545,7 +545,7 @@ struct PremiumRequiredView: View {
                 .foregroundColor(.gray)
                 .multilineTextAlignment(.center)
             
-            Link(destination: URL(string: "https://discord.gg/killers")!) {
+            Link(destination: URL(string: "https://x.com/AnonAntics")!) {
                 HStack {
                     Image(systemName: "gift.fill")
                     Text("Get Premium")

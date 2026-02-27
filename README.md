@@ -10,7 +10,7 @@ bad-antics, bad-antics, NullSec Framework, mobile Bluetooth tools, device tracke
 
 ### Advanced Bluetooth Security Analyzer
 
-[![Discord](https://img.shields.io/badge/🔑_GET_KEYS-discord.gg/killers-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/killers)
+[![X/Twitter](https://img.shields.io/badge/🔑_GET_KEYS-x.com/AnonAntics-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/AnonAntics)
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bad-antics)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/bad-antics/nullsec-bluetooth)
 
@@ -31,7 +31,7 @@ bad-antics, bad-antics, NullSec Framework, mobile Bluetooth tools, device tracke
                        bad-antics
 ```
 
-### 🔓 **[Join discord.gg/killers](https://discord.gg/killers)** for premium features!
+### 🔓 **[Join x.com/AnonAntics](https://x.com/AnonAntics)** for premium features!
 
 </div>
 

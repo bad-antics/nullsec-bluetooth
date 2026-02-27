@@ -21,7 +21,7 @@ import java.util.UUID
  * - Security assessment
  * 
  * @author @AnonAntics
- * @discord discord.gg/killers (Premium Required)
+ * @discord x.com/AnonAntics (Premium Required)
  */
 class GattExplorer(private val context: Context) {
 

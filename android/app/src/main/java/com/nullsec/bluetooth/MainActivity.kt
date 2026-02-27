@@ -22,7 +22,7 @@ import com.nullsec.bluetooth.utils.LicenseManager
  * 
  * @author @AnonAntics
  * @website https://github.com/bad-antics
- * @discord discord.gg/killers
+ * @discord x.com/AnonAntics
  */
 class MainActivity : AppCompatActivity() {
 
@@ -118,7 +118,7 @@ class MainActivity : AppCompatActivity() {
         if (licenseManager.isPremium()) {
             Toast.makeText(this, "🔓 Premium features unlocked!", Toast.LENGTH_SHORT).show()
         } else {
-            Toast.makeText(this, "🔑 Get premium at discord.gg/killers", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "🔑 Get premium at x.com/AnonAntics", Toast.LENGTH_LONG).show()
         }
     }
     
@@ -169,7 +169,7 @@ class MainActivity : AppCompatActivity() {
     private fun showPremiumRequired(feature: String) {
         Toast.makeText(
             this,
-            "🔒 $feature requires premium!\n🔑 discord.gg/killers",
+            "🔒 $feature requires premium!\n🔑 x.com/AnonAntics",
             Toast.LENGTH_LONG
         ).show()
     }
